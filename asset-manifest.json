@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.e330128b.chunk.js",
+    "main.js.map": "/static/js/main.e330128b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed26ab12.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed26ab12.js.map",
+    "static/css/2.c4411659.chunk.css": "/static/css/2.c4411659.chunk.css",
+    "static/js/2.9823d17e.chunk.js": "/static/js/2.9823d17e.chunk.js",
+    "static/js/2.9823d17e.chunk.js.map": "/static/js/2.9823d17e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c4411659.chunk.css.map": "/static/css/2.c4411659.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9823d17e.chunk.js.LICENSE.txt": "/static/js/2.9823d17e.chunk.js.LICENSE.txt",
+    "static/media/dinero.5cbd9a76.png": "/static/media/dinero.5cbd9a76.png",
+    "static/media/lupa.fdddb590.png": "/static/media/lupa.fdddb590.png",
+    "static/media/paloma.996cf16d.png": "/static/media/paloma.996cf16d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed26ab12.js",
+    "static/css/2.c4411659.chunk.css",
+    "static/js/2.9823d17e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e330128b.chunk.js"
+  ]
+}
